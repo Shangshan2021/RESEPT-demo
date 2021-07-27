@@ -1,7 +1,7 @@
 Getting started
 ---------------
 
-RESEPT: a point-cloud model for histocyte. This is a overview to how to quikly start RESEPT.
+This is a overview to how to quikly start RESEPT.
 
 `1. Data prepare`_
 **********************
