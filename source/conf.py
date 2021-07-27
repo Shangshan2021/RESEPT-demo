@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'RESEPT'
-copyright = '2021, robot'
-author = 'robot'
+copyright = '2021, Yanyuhang'
+author = 'Research team of Northeast Normal University'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0'
+release = 'v1'
 
 
 # -- General configuration ---------------------------------------------------

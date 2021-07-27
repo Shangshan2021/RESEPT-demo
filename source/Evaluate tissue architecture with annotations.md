@@ -1,5 +1,3 @@
-# Data Processing
-
 ### Evaluate tissue architecture with annotations
 
 Run the following command line to generate RGB images from different embedding parameters, segmentation maps with top5 Moran's I and their evaluation metrics.

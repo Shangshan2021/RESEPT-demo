@@ -7,13 +7,6 @@ Welcome to RESEPT's documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Reproduce our experimental results:
-
-   Evaluation of segmentation results
-   Case study 
-   
-.. toctree::
    :caption: Main
    :maxdepth: 1
    :hidden:
@@ -32,8 +25,9 @@ Welcome to RESEPT's documentation!
 
    Getting started
    Prepare datasets
-   Data Processing
-   Run RESEPT
+   Evaluate tissue architecture with annotations
+   predict tissue architecture without annotation
+   Customize segmentation model
 
 
 .. toctree::
