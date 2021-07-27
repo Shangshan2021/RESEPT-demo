@@ -24,7 +24,7 @@ Welcome to RESEPT's documentation!
    :hidden:
 
    Getting started
-   Prepare datasets
+   Data prepare
    Evaluate tissue architecture with annotations
    predict tissue architecture without annotation
    Customize segmentation model
