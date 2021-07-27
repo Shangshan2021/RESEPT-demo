@@ -13,6 +13,34 @@ Welcome to RESEPT's documentation!
    Evaluation of segmentation results
    Case study 
    
+.. toctree::
+   :caption: Main
+   :maxdepth: 1
+   :hidden:
+   
+   About
+   Installation
+   Release
+   References
+   Contact
+   
+
+.. toctree::
+   :caption: Tutorials
+   :maxdepth: 1
+   :hidden:
+
+   Getting started
+   Prepare datasets
+   Data Processing
+   Run RESEPT
+
+
+.. toctree::
+   :caption: Example Datasets
+   :maxdepth: 1
+   :hidden:
+
 
 Indices and tables
 ==================
